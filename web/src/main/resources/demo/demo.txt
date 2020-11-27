@@ -1,0 +1,602 @@
+[
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "JXI8_XUBAM8ZMZg3haC-",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/01.Spring boot快速开始及核心功能讲解.pptx",
+          "pathFile" : "01.Spring boot快速开始及核心功能讲解.pptx",
+          "pathFileName" : "01.Spring boot快速开始及核心功能讲",
+          "pathFileSuffix" : "pptx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "JnI8_XUBAM8ZMZg3haDl",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/0816分布式服务治理技术-Dubbo.docx",
+          "pathFile" : "0816分布式服务治理技术-Dubbo.docx",
+          "pathFileName" : "0816分布式服务治理技术-Dubb",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "J3I8_XUBAM8ZMZg3haDr",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/10.Hadoop入门进阶课程_第10周_HBase介绍、安装与应用案例.doc",
+          "pathFile" : "10.Hadoop入门进阶课程_第10周_HBase介绍、安装与应用案例.doc",
+          "pathFileName" : "10.Hadoop入门进阶课程_第10周_HBase介绍、安装与应用案",
+          "pathFileSuffix" : "doc"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "KHI8_XUBAM8ZMZg3haDw",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/12、nosql数据库mongodb安装.doc",
+          "pathFile" : "12、nosql数据库mongodb安装.doc",
+          "pathFileName" : "12、nosql数据库mongodb安",
+          "pathFileSuffix" : "doc"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "KXI8_XUBAM8ZMZg3haD1",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/13.Hadoop入门进阶课程_第13周_Chukwa介绍与安装部署.doc",
+          "pathFile" : "13.Hadoop入门进阶课程_第13周_Chukwa介绍与安装部署.doc",
+          "pathFileName" : "13.Hadoop入门进阶课程_第13周_Chukwa介绍与安装部",
+          "pathFileSuffix" : "doc"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "KnI8_XUBAM8ZMZg3haD5",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/13从案例中感悟SQL等价改写优化思路之1.pdf",
+          "pathFile" : "13从案例中感悟SQL等价改写优化思路之1.pdf",
+          "pathFileName" : "13从案例中感悟SQL等价改写优化思路之",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "K3I8_XUBAM8ZMZg3haD-",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/2.23日Spark内核架构讲解.pdf",
+          "pathFile" : "2.23日Spark内核架构讲解.pdf",
+          "pathFileName" : "2.23日Spark内核架构讲",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "LHI8_XUBAM8ZMZg3hqAD",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/3.Hadoop入门进阶课程_第3周_Hadoop2.X64位环境搭建.pdf",
+          "pathFile" : "3.Hadoop入门进阶课程_第3周_Hadoop2.X64位环境搭建.pdf",
+          "pathFileName" : "3.Hadoop入门进阶课程_第3周_Hadoop2.X64位环境搭",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "LXI8_XUBAM8ZMZg3hqAI",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/9.Hadoop入门进阶课程_第9周_Mahout介绍、安装与应用案例.pdf",
+          "pathFile" : "9.Hadoop入门进阶课程_第9周_Mahout介绍、安装与应用案例.pdf",
+          "pathFileName" : "9.Hadoop入门进阶课程_第9周_Mahout介绍、安装与应用案",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "LnI8_XUBAM8ZMZg3hqAN",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/day04 机试.doc",
+          "pathFile" : "day04 机试.doc",
+          "pathFileName" : "day04 机",
+          "pathFileSuffix" : "doc"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "L3I8_XUBAM8ZMZg3hqAT",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/day1228事件.rtf",
+          "pathFile" : "day1228事件.rtf",
+          "pathFileName" : "day1228事",
+          "pathFileSuffix" : "rtf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "MHI8_XUBAM8ZMZg3hqAY",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/Docker技术入门与实战（第3版）.pdf",
+          "pathFile" : "Docker技术入门与实战（第3版）.pdf",
+          "pathFileName" : "Docker技术入门与实战（第3版",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "MXI8_XUBAM8ZMZg3hqAg",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/ELK大型日志分析系统案例.pptx",
+          "pathFile" : "ELK大型日志分析系统案例.pptx",
+          "pathFileName" : "ELK大型日志分析系统案",
+          "pathFileSuffix" : "pptx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "MnI8_XUBAM8ZMZg3hqAn",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/Executor笔记整理.docx",
+          "pathFile" : "Executor笔记整理.docx",
+          "pathFileName" : "Executor笔记整",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "M3I8_XUBAM8ZMZg3hqAs",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/flume配置案例.docx",
+          "pathFile" : "flume配置案例.docx",
+          "pathFileName" : "flume配置案",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "NHI8_XUBAM8ZMZg3hqA1",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/ggplot2 Elegant Graphics for Data Analysis.PDF",
+          "pathFile" : "ggplot2 Elegant Graphics for Data Analysis.PDF",
+          "pathFileName" : "ggplot2 Elegant Graphics for Data Analysi",
+          "pathFileSuffix" : "PDF"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "NXI8_XUBAM8ZMZg3hqA5",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/Lession2.pptx",
+          "pathFile" : "Lession2.pptx",
+          "pathFileName" : "Lession",
+          "pathFileSuffix" : "pptx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "NnI8_XUBAM8ZMZg3hqA-",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/mysql5.5-configure.txt",
+          "pathFile" : "mysql5.5-configure.txt",
+          "pathFileName" : "mysql5.5-configur",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "N3I8_XUBAM8ZMZg3hqBC",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/oo6.txt",
+          "pathFile" : "oo6.txt",
+          "pathFileName" : "oo",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "OHI8_XUBAM8ZMZg3hqBH",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/quantmod2.pdf",
+          "pathFile" : "quantmod2.pdf",
+          "pathFileName" : "quantmod",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "OXI8_XUBAM8ZMZg3hqBM",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/Rpackage.pdf",
+          "pathFile" : "Rpackage.pdf",
+          "pathFileName" : "Rpackag",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "OnI8_XUBAM8ZMZg3hqBR",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/serverStartup.txt",
+          "pathFile" : "serverStartup.txt",
+          "pathFileName" : "serverStartu",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "O3I8_XUBAM8ZMZg3hqBV",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/Spark一体化大数据分析流水线.pdf",
+          "pathFile" : "Spark一体化大数据分析流水线.pdf",
+          "pathFileName" : "Spark一体化大数据分析流水",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "PHI8_XUBAM8ZMZg3hqBc",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/springboot-课件.docx",
+          "pathFile" : "springboot-课件.docx",
+          "pathFileName" : "springboot-课",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "PXI8_XUBAM8ZMZg3hqBg",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/Sqoop中文手册.docx",
+          "pathFile" : "Sqoop中文手册.docx",
+          "pathFileName" : "Sqoop中文手",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "PnI8_XUBAM8ZMZg3hqBm",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/《Java常用算法手册 第三版本》.pdf",
+          "pathFile" : "《Java常用算法手册 第三版本》.pdf",
+          "pathFileName" : "《Java常用算法手册 第三版本",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "P3I8_XUBAM8ZMZg3hqBr",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/企业大数据处理：Spark、Druid、Flume与Kafka应用实践.zip",
+          "pathFile" : "企业大数据处理：Spark、Druid、Flume与Kafka应用实践.zip",
+          "pathFileName" : "企业大数据处理：Spark、Druid、Flume与Kafka应用实",
+          "pathFileSuffix" : "zip"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "QHI8_XUBAM8ZMZg3hqBx",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/副本 Tomcat 生产环境应用配置.docx",
+          "pathFile" : "副本 Tomcat 生产环境应用配置.docx",
+          "pathFileName" : "副本 Tomcat 生产环境应用配",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "QXI8_XUBAM8ZMZg3hqB3",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/安装前必看.txt",
+          "pathFile" : "安装前必看.txt",
+          "pathFileName" : "安装前必",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "QnI8_XUBAM8ZMZg3hqB-",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/张如松-Apache-Kylin在贝壳找房的实践.pdf",
+          "pathFile" : "张如松-Apache-Kylin在贝壳找房的实践.pdf",
+          "pathFileName" : "张如松-Apache-Kylin在贝壳找房的实",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "Q3I8_XUBAM8ZMZg3hqCD",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/性能优化作业.txt",
+          "pathFile" : "性能优化作业.txt",
+          "pathFileName" : "性能优化作",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "RHI8_XUBAM8ZMZg3hqCK",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/数据展现03.pdf",
+          "pathFile" : "数据展现03.pdf",
+          "pathFileName" : "数据展现0",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "RXI8_XUBAM8ZMZg3hqCP",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/数据展现04.pdf",
+          "pathFile" : "数据展现04.pdf",
+          "pathFileName" : "数据展现0",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "RnI8_XUBAM8ZMZg3hqCW",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/数据库.rtf",
+          "pathFile" : "数据库.rtf",
+          "pathFileName" : "数据",
+          "pathFileSuffix" : "rtf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "R3I8_XUBAM8ZMZg3hqCb",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/数据挖掘-概念与技术(第三版)部分习题答案汇总.doc",
+          "pathFile" : "数据挖掘-概念与技术(第三版)部分习题答案汇总.doc",
+          "pathFileName" : "数据挖掘-概念与技术(第三版)部分习题答案汇",
+          "pathFileSuffix" : "doc"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "SHI8_XUBAM8ZMZg3hqCi",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/数据管控体系设计.ppt",
+          "pathFile" : "数据管控体系设计.ppt",
+          "pathFileName" : "数据管控体系设",
+          "pathFileSuffix" : "ppt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "SXI8_XUBAM8ZMZg3hqCn",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/第2周视频.txt",
+          "pathFile" : "第2周视频.txt",
+          "pathFileName" : "第2周视",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "SnI8_XUBAM8ZMZg3hqCu",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/第三节 搭建web开发环境.pptx",
+          "pathFile" : "第三节 搭建web开发环境.pptx",
+          "pathFileName" : "第三节 搭建web开发环",
+          "pathFileSuffix" : "pptx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "S3I8_XUBAM8ZMZg3hqCz",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/第十课 上 Security(1).pdf",
+          "pathFile" : "第十课 上 Security(1).pdf",
+          "pathFileName" : "第十课 上 Security(1",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "THI8_XUBAM8ZMZg3hqC5",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/第四节 Servlet访问流程.pptx",
+          "pathFile" : "第四节 Servlet访问流程.pptx",
+          "pathFileName" : "第四节 Servlet访问流",
+          "pathFileSuffix" : "pptx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "TXI8_XUBAM8ZMZg3hqC-",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/统计软件和R语言.ppt",
+          "pathFile" : "统计软件和R语言.ppt",
+          "pathFileName" : "统计软件和R语",
+          "pathFileSuffix" : "ppt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "TnI8_XUBAM8ZMZg3hqDD",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/美团1万台 Hadoop 集群 YARN 的调优之路.rar",
+          "pathFile" : "美团1万台 Hadoop 集群 YARN 的调优之路.rar",
+          "pathFileName" : "美团1万台 Hadoop 集群 YARN 的调优之",
+          "pathFileSuffix" : "rar"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "T3I8_XUBAM8ZMZg3hqDH",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/老男孩-19期12月1日记录.docx",
+          "pathFile" : "老男孩-19期12月1日记录.docx",
+          "pathFileName" : "老男孩-19期12月1日记",
+          "pathFileSuffix" : "docx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "UHI8_XUBAM8ZMZg3hqDN",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/课后作业.txt",
+          "pathFile" : "课后作业.txt",
+          "pathFileName" : "课后作",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "UXI8_XUBAM8ZMZg3hqDR",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/课程内容必读Readme.txt",
+          "pathFile" : "课程内容必读Readme.txt",
+          "pathFileName" : "课程内容必读Readm",
+          "pathFileSuffix" : "txt"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "UnI8_XUBAM8ZMZg3hqDX",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/调用链系统概述与底层逻辑 (1).pdf",
+          "pathFile" : "调用链系统概述与底层逻辑 (1).pdf",
+          "pathFileName" : "调用链系统概述与底层逻辑 (1",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "U3I8_XUBAM8ZMZg3hqDc",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/高洪涛-Sharding-JDBC.pdf",
+          "pathFile" : "高洪涛-Sharding-JDBC.pdf",
+          "pathFileName" : "高洪涛-Sharding-JDB",
+          "pathFileSuffix" : "pdf"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "VHI8_XUBAM8ZMZg3hqDh",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/数据中心.png",
+          "pathFile" : "数据中心.png",
+          "pathFileName" : "数据中",
+          "pathFileSuffix" : "png"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "VXI8_XUBAM8ZMZg3hqDn",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/玩转每天千亿数据-趣头条.pptx",
+          "pathFile" : "玩转每天千亿数据-趣头条.pptx",
+          "pathFileName" : "玩转每天千亿数据-趣头",
+          "pathFileSuffix" : "pptx"
+        }
+      },
+      {
+        "_index" : "nas_docs",
+        "_type" : "_doc",
+        "_id" : "VnI8_XUBAM8ZMZg3hqDs",
+        "_score" : 1.0,
+        "_source" : {
+          "pbase" : "/share/CACHEDEV1_DATA/暂存整理/文档/24、hdfs单机安装部署.doc",
+          "pathFile" : "24、hdfs单机安装部署.doc",
+          "pathFileName" : "24、hdfs单机安装部",
+          "pathFileSuffix" : "doc"
+        }
+      }
+    ]
